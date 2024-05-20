@@ -18,7 +18,7 @@ Project Description:
 The project simulates a traffic light system with three signals: red, yellow (blue in this project), and green. The LCD display shows the time remaining for each signal change.
 
 Video Demonstration
-Watch the demonstration video here.
+Watch the demonstration video here #https://github.com/Rajat22UEE/Arduino-Traffic-light/issues/1#issue-2306843806.
 
 How It Works
 Connect the components according to the circuit diagram.
