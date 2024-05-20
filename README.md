@@ -22,6 +22,6 @@ Circuit Diagram :
 https://github.com/Rajat22UEE/Arduino-Traffic-light/issues/1#issue-2306843806
 
 Video demostration : 
-https://github.com/Rajat22UEE/Arduino-Traffic-light/issues/2#issue-2306860473
+https://github.com/Rajat22UEE/Arduino-Traffic-light/issues/3#issue-2306874246
 
 Here the code : 
