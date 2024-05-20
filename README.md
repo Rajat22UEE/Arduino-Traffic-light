@@ -18,19 +18,8 @@ Project Description:
 The project simulates a traffic light system with three signals: red, yellow (blue in this project), and green. The LCD display shows the time remaining for each signal change.
 
 Video Demonstration
-Watch the demonstration video here https://github.com/Rajat22UEE/Arduino-Traffic-light/issues/1#issue-2306843806.
+Watch the demonstration video here 
+<br/>
+https://github.com/Rajat22UEE/Arduino-Traffic-light/issues/1#issue-2306843806
 
-How It Works
-Connect the components according to the circuit diagram.
-Upload the provided code to the Arduino board.
-The LEDs will start blinking according to the traffic light sequence (15s red, 6s blue, 20s green).
-The LCD will display messages corresponding to each signal (e.g., "STOP" for red, "START" for blue, "GO" for green) and the time left for the next signal.
-Usage
-Ideal for beginners to learn Arduino basics.
-Can be used to create a small-scale traffic light model.
-Expandable by adding more LEDs or customizing the code for different timings.
-Learn how to integrate an LCD display with Arduino.
-Getting Started
-Clone or download the project repository.
-Open the Arduino IDE and upload the code to your Arduino board.
-Follow the circuit diagram provided in the project documentation.
+
