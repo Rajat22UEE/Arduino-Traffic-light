@@ -15,7 +15,7 @@ Components and Supplies:
 11. Arduino IDE
     
 Project Description:
-The project simulates a traffic light system with three signals: red, yellow (blue in this project), and green. The LCD display shows the time remaining for each signal change.
+The project simulates a traffic light system with three signals: red, yellow, and green. The LCD display shows the time remaining for each signal change.
 
 
 Circuit Diagram : 
